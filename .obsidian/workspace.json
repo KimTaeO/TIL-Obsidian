@@ -23,11 +23,10 @@
             "id": "06c0b948eb693cdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "network/WebSocket.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           },
@@ -118,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/WebSocket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/WebSocket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "network/WebSocket.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,9 +183,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4c972ace80ddb0d",
+  "active": "06c0b948eb693cdc",
   "lastOpenFiles": [
     "network/WebSocket.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "back/JWT.md",
     "개인노트.md",
     "Test.md",
@@ -217,8 +214,6 @@
     "back/Netty.md",
     "back/N+1.md",
     "Operating System/Memory.md",
-    "Operating System/커널(kernel).md",
-    "Operating System/멀티 스레드.md",
     "Pasted image 20240903181201.png",
     "Pasted image 20240831153519.png",
     "OAuth 2.0.png",
