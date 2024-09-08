@@ -23,10 +23,11 @@
             "id": "06c0b948eb693cdc",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Spring이 요청을 처리하는 과정.md",
-                "staged": false
+                "file": "network/WebSocket.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -117,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "network/WebSocket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "network/WebSocket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "network/WebSocket.md"
+              }
             }
           },
           {
@@ -183,9 +188,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06c0b948eb693cdc",
+  "active": "c4c972ace80ddb0d",
   "lastOpenFiles": [
-    "WebSocket.md",
+    "network/WebSocket.md",
     "back/JWT.md",
     "개인노트.md",
     "Test.md",
