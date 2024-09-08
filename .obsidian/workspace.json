@@ -13,21 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인노트.md",
+                "file": "back/JWT.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "caee2055c14da031",
+            "id": "06c0b948eb693cdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
+                "file": "Spring이 요청을 처리하는 과정.md",
+                "staged": false
               }
             }
           },
@@ -118,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -188,11 +183,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "caee2055c14da031",
+  "active": "06c0b948eb693cdc",
   "lastOpenFiles": [
+    "WebSocket.md",
+    "back/JWT.md",
     "개인노트.md",
     "Test.md",
-    "back/JWT.md",
     "data structure/Graph.md",
     "명령어 해석기(shell).md",
     "spring/POJO.md",
@@ -218,7 +214,6 @@
     "Operating System/Memory.md",
     "Operating System/커널(kernel).md",
     "Operating System/멀티 스레드.md",
-    "data structure/Stack.md",
     "Pasted image 20240903181201.png",
     "Pasted image 20240831153519.png",
     "OAuth 2.0.png",
