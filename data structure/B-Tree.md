@@ -13,11 +13,3 @@ Root Node와 Leaf Node를 제외한 노드들은 M ~ M/2개 까지의 자식을 
 Node의 Key는 최대 M-1 ~ M/2 -1개의 키를 포함할 수 있다
 
 ![[Pasted image 20240922171107.png]]
-### B+Tree
-일반적인 B-Tree의 경우에는 중간 노드에 Key들을 담을 수 있지만 B+Tree는 그렇지 않다
-같은 레벨의 Sibling Node는 연결 리스트 형태로 이어져 있다
-
-Leaf Node가 이닌 Node는 Index Node라고 부르고, Leaf Node는 데이터 노드라고 한다
-
-인덱스 노드에는 다음 노드를 가리키는 Pointer만 존재한다
-데이터 노드에 실제 값들이 존재한다.
