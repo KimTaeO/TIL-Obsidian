@@ -1,7 +1,7 @@
 Mysql에서 다루는 데이터 묶음의 단위를 Page라고 한다
 
 ### Page의 종류
-Data Page, Index Page, Undo Log Page가 있다
+Data Page, [[Index Page]], Undo Log Page가 있다
 
 Data Page는 테이블 데이터들이 저장되는 Page 이다
 
